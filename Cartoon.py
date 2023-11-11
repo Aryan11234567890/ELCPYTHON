@@ -1,4 +1,4 @@
-#hi guys, Aryan here!!!
+
 import numpy as np
 import cv2
 import tkinter as tk
